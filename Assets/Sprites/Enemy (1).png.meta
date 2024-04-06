@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: ff88d38d97e8441ca846e43848c1f647
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeadO
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1078
+        width: 528
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13956b7e8c99541ad8dc73dc3975f0a8
+      internalID: 488059423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy (1)_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1530
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92724df7d0065437a88a18b49196d77d
+      internalID: 1297315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeadG
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1033
+        width: 531
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075af316fd6d459cb6e50b49aa1ce4f
+      internalID: -1806462363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeLO
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1305
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aadecfc5b7a4f4a8860603d4cfe955
+      internalID: -1756134899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeRO
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1281
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95a8ee2872746c5a5ac04e2a0f06a9
+      internalID: 1958811298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeLG
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1261
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7a7484868348d19ac9c8d1fc4e3f0
+      internalID: -207870865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeRG
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1237
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea48d8c90f146d3946a48a9ae8e007
+      internalID: 358607863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouthO
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1169
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1942de28da4d8daea6a3e78480821
+      internalID: 1388339697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouthG
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1125
+        width: 94
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714784ae8c3441cc8b8dff306ba7ef1
+      internalID: 275028233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyO
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 739
+        width: 251
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f5bd5a6819b45aab011d1f02cf9d50
+      internalID: 466321957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BodyG
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 699
+        width: 254
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67428c8d8784944a965a9d987a99f0
+      internalID: 1490982789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandLO
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 815
+        width: 178
+        height: 194
+      alignment: 9
+      pivot: {x: 0.92529744, y: 0.83168834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fb2db7344b84dd8961b87941683663
+      internalID: -1271385834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HandRo
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 831
+        width: 166
+        height: 182
+      alignment: 9
+      pivot: {x: 0.0781614, y: 0.83276033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54625c9a186c248ec8b3f088b1c55108
+      internalID: -1906880377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmLG
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 773
+        width: 180
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be39e5f7b8784a9fb6ff68861a11b75
+      internalID: 1139888463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmRG
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 789
+        width: 168
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2ed7c5960c4815b2b5db9a3c5432e
+      internalID: -927951302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegLo
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 104
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5545933, y: 0.90244406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7d5d9ece06e43309647bb2c28f8fac
+      internalID: 1095810143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegRo
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 411
+        width: 104
+        height: 166
+      alignment: 9
+      pivot: {x: 0.3362198, y: 0.9104379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef46eeb32ff4d289ed958aea1c4253
+      internalID: -619112048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegLG
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 367
+        width: 105
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934c3c267f6ff4ad39a0e2ad947da04e
+      internalID: 1255448428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegRG
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 367
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a128965e89af45b4a415565067ac017
+      internalID: -1245670944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy (1)_36
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 383
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15567deb90dcf44f8b2b654304605897
+      internalID: 196752716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy (1)_9: 263570584
+      LegLG: 1255448428
+      Enemy (1)_3: -151306563
+      Enemy (1)_8: 1740393377
+      Enemy (1)_17: 908975351
+      HandLO: -1271385834
+      HandRo: -1906880377
+      LegRo: -619112048
+      MouthG: 275028233
+      LegLo: 1095810143
+      BodyG: 1490982789
+      ArmRG: -927951302
+      Enemy (1)_10: 947128497
+      Enemy (1)_30: 386025148
+      EyeRO: 1958811298
+      Enemy (1)_19: -598126528
+      ArmLG: 1139888463
+      HeadO: 488059423
+      Enemy (1)_33: 1244860324
+      HeadG: -1806462363
+      LegRG: -1245670944
+      Enemy (1)_36: 196752716
+      Enemy (1)_5: 263018118
+      Enemy (1)_22: 1801037347
+      Enemy (1)_20: -1676415669
+      Enemy (1)_29: 1780394497
+      EyeRG: 358607863
+      BodyO: 466321957
+      Enemy (1)_4: -199924112
+      Enemy (1)_1: 1297315731
+      Enemy (1)_2: -266754849
+      EyeLG: -207870865
+      EyeLO: -1756134899
+      Enemy (1)_6: 1687462887
+      Enemy (1)_18: -56057825
+      Enemy (1)_23: 1532554298
+      MouthO: 1388339697
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
